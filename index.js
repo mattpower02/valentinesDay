@@ -24,7 +24,7 @@ function noBtnClickEvent(obj) {
 }
 
 function yesBtnClickEvent() {
-  gifBear.src = "bear-kiss-bear-kisses.gif";
+  gifBear.src = "kissingbears.gif";
   yesButton.style.width = String(yesWidth) + "px"
   yesButton.style.height = String(yesHeight) + "px"
   yesButton.style.paddingTop = String(yesPadding) + "px"
